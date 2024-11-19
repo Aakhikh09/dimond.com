@@ -1,1 +1,1 @@
-# dimond.com
+# dimond
